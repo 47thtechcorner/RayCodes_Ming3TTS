@@ -1,6 +1,5 @@
 assets/
 models/
-outputs/
 venv/
 __pycache__/
 *.log
